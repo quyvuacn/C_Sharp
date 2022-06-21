@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Documents\\GitHub\\C_Sharp\\Exercise 2\\Exercise\\Exercise 4.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Documents\\GitHub\\C_Sharp\\Exercise SS1\\Exercise\\Exercise 4.csproj",
       "projectName": "Exercise 4",
-      "projectPath": "C:\\Users\\pc\\OneDrive\\Documents\\GitHub\\C_Sharp\\Exercise 2\\Exercise\\Exercise 4.csproj",
+      "projectPath": "C:\\Users\\pc\\OneDrive\\Documents\\GitHub\\C_Sharp\\Exercise SS1\\Exercise\\Exercise 4.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\OneDrive\\Documents\\GitHub\\C_Sharp\\Exercise 2\\Exercise\\obj\\",
+      "outputPath": "C:\\Users\\pc\\OneDrive\\Documents\\GitHub\\C_Sharp\\Exercise SS1\\Exercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
