@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Learn C_Sharp\Format\bin\Debug\net6.0\Format.exe
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Learn C_Sharp\Format\bin\Debug\net6.0\Format.deps.json
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Learn C_Sharp\Format\bin\Debug\net6.0\Format.runtimeconfig.json
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Learn C_Sharp\Format\bin\Debug\net6.0\Format.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Learn C_Sharp\Format\bin\Debug\net6.0\Format.pdb
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Learn C_Sharp\Format\obj\Debug\net6.0\Format.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Learn C_Sharp\Format\obj\Debug\net6.0\Format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Learn C_Sharp\Format\obj\Debug\net6.0\Format.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Learn C_Sharp\Format\obj\Debug\net6.0\Format.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Learn C_Sharp\Format\obj\Debug\net6.0\Format.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Learn C_Sharp\Format\obj\Debug\net6.0\Format.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Learn C_Sharp\Format\obj\Debug\net6.0\refint\Format.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Learn C_Sharp\Format\obj\Debug\net6.0\Format.pdb
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Learn C_Sharp\Format\obj\Debug\net6.0\Format.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Learn C_Sharp\Format\obj\Debug\net6.0\ref\Format.dll
