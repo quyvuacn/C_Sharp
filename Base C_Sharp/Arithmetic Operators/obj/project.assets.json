@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Documents\\GitHub\\C_Sharp\\Learn C_Sharp\\Arithmetic Operators\\Arithmetic Operators.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Documents\\GitHub\\C_Sharp\\Base C_Sharp\\Arithmetic Operators\\Arithmetic Operators.csproj",
       "projectName": "Arithmetic Operators",
-      "projectPath": "C:\\Users\\pc\\OneDrive\\Documents\\GitHub\\C_Sharp\\Learn C_Sharp\\Arithmetic Operators\\Arithmetic Operators.csproj",
+      "projectPath": "C:\\Users\\pc\\OneDrive\\Documents\\GitHub\\C_Sharp\\Base C_Sharp\\Arithmetic Operators\\Arithmetic Operators.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\OneDrive\\Documents\\GitHub\\C_Sharp\\Learn C_Sharp\\Arithmetic Operators\\obj\\",
+      "outputPath": "C:\\Users\\pc\\OneDrive\\Documents\\GitHub\\C_Sharp\\Base C_Sharp\\Arithmetic Operators\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

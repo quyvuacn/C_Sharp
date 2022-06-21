@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Exercise 2\Exercise\bin\Debug\net6.0\Exercise 4.exe
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Exercise 2\Exercise\bin\Debug\net6.0\Exercise 4.deps.json
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Exercise 2\Exercise\bin\Debug\net6.0\Exercise 4.runtimeconfig.json
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Exercise 2\Exercise\bin\Debug\net6.0\Exercise 4.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Exercise 2\Exercise\bin\Debug\net6.0\Exercise 4.pdb
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Exercise 2\Exercise\obj\Debug\net6.0\Exercise 4.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Exercise 2\Exercise\obj\Debug\net6.0\Exercise 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Exercise 2\Exercise\obj\Debug\net6.0\Exercise 4.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Exercise 2\Exercise\obj\Debug\net6.0\Exercise 4.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Exercise 2\Exercise\obj\Debug\net6.0\Exercise 4.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Exercise 2\Exercise\obj\Debug\net6.0\Exercise 4.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Exercise 2\Exercise\obj\Debug\net6.0\refint\Exercise 4.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Exercise 2\Exercise\obj\Debug\net6.0\Exercise 4.pdb
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Exercise 2\Exercise\obj\Debug\net6.0\Exercise 4.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Exercise 2\Exercise\obj\Debug\net6.0\ref\Exercise 4.dll

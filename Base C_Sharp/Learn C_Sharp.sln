@@ -5,17 +5,17 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypes", "Learn C_Sharp\DataTypes.csproj", "{911E7F74-1C1A-4C2D-90CF-33949F3C3FEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World", "Hello World\Hello World.csproj", "{10621686-C1D5-4FB0-9827-4FA5258E312E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello World", "Hello World\Hello World.csproj", "{10621686-C1D5-4FB0-9827-4FA5258E312E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic Operators", "Arithmetic Operators\Arithmetic Operators.csproj", "{08AC2740-5AE9-4DD5-B787-964E77E2AEA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arithmetic Operators", "Arithmetic Operators\Arithmetic Operators.csproj", "{08AC2740-5AE9-4DD5-B787-964E77E2AEA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{94F8314D-4A47-4119-9069-E2252CE74C90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditionals", "Conditionals\Conditionals.csproj", "{94F8314D-4A47-4119-9069-E2252CE74C90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{B7D7FCB2-8F34-4490-82AF-D7A04F83EA99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{B7D7FCB2-8F34-4490-82AF-D7A04F83EA99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{765C8798-7D69-43A1-B30A-BE4CBB2722B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{765C8798-7D69-43A1-B30A-BE4CBB2722B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Format", "Format\Format.csproj", "{B5913F30-8F6E-499E-BFF5-A67974C5432A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Format", "Format\Format.csproj", "{B5913F30-8F6E-499E-BFF5-A67974C5432A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
