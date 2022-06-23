@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS2\Snippet 7\bin\Debug\net6.0\Snippet 7.exe
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS2\Snippet 7\bin\Debug\net6.0\Snippet 7.deps.json
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS2\Snippet 7\bin\Debug\net6.0\Snippet 7.runtimeconfig.json
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS2\Snippet 7\bin\Debug\net6.0\Snippet 7.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS2\Snippet 7\bin\Debug\net6.0\Snippet 7.pdb
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS2\Snippet 7\obj\Debug\net6.0\Snippet 7.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS2\Snippet 7\obj\Debug\net6.0\Snippet 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS2\Snippet 7\obj\Debug\net6.0\Snippet 7.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS2\Snippet 7\obj\Debug\net6.0\Snippet 7.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS2\Snippet 7\obj\Debug\net6.0\Snippet 7.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS2\Snippet 7\obj\Debug\net6.0\Snippet 7.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS2\Snippet 7\obj\Debug\net6.0\refint\Snippet 7.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS2\Snippet 7\obj\Debug\net6.0\Snippet 7.pdb
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS2\Snippet 7\obj\Debug\net6.0\Snippet 7.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS2\Snippet 7\obj\Debug\net6.0\ref\Snippet 7.dll
