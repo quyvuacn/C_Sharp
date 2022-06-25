@@ -53,6 +53,7 @@ class Atm
         int userName, password;
         int count = 0,ch, surplus=3000,num;
         int isContinue=1;
+        
 
 
         Console.WriteLine("Chao ban den voi MB bank");
@@ -62,9 +63,11 @@ class Atm
             userName = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Moi ban nhap mat khau");
             password = Convert.ToInt32(Console.ReadLine());
+            //Linq 
             var curentUser = mbBank.Where(
                 user => user.cardID == userName && user.Password == password
             );    
+
            if (curentUser.Count()==1)
             {
                 User user = curentUser.First();
@@ -150,6 +153,6 @@ class Atm
                 Console.WriteLine("Ban da nhap sai tk hoac mk.Vui long thu lai");
                 count++;
             }
-        } while (count<=3);
+        } while (count<=3 && isContinue!=0);
     }
 }
