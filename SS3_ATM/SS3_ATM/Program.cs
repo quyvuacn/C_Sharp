@@ -28,7 +28,6 @@ class User
 }
 class Atm
 {
-
     static void displayMenu()
     {
         Console.WriteLine("Ban co the nhap lua chon sau:\n");
@@ -41,9 +40,13 @@ class Atm
     {
         User user1 = new User("Vu Viet Quy", 123, 456, 3000);
         User user2 = new User("Ta Duy Linh", 124, 456, 30000);
+        User user3 = new User("Nguyen Dac Dung", 125, 456, 25000);
+        User user4 = new User("Dang Kim Thi", 126, 456, 125000);
         List<User> mbBank = new List<User>();
         mbBank.Add(user1);
         mbBank.Add(user2);
+        mbBank.Add(user3);
+        mbBank.Add(user4);
 
 
 
@@ -110,7 +113,7 @@ class Atm
                                 {
                                     Console.WriteLine("Chuyen tien thanh cong");
                                     user.Surplus-=num;
-                                    target.Surplus =  target.Surplus + num;
+                                    target.Surplus += num;
                                     Console.WriteLine("So du hien tai:{0}", user.Surplus);
                                 }
                                 else
@@ -147,6 +150,6 @@ class Atm
                 Console.WriteLine("Ban da nhap sai tk hoac mk.Vui long thu lai");
                 count++;
             }
-        } while (count<=3 );
+        } while (count<=3);
     }
 }
