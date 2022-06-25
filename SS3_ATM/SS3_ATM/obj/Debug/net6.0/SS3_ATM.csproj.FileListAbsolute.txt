@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS3_ATM\SS3_ATM\bin\Debug\net6.0\SS3_ATM.exe
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS3_ATM\SS3_ATM\bin\Debug\net6.0\SS3_ATM.deps.json
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS3_ATM\SS3_ATM\bin\Debug\net6.0\SS3_ATM.runtimeconfig.json
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS3_ATM\SS3_ATM\bin\Debug\net6.0\SS3_ATM.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS3_ATM\SS3_ATM\bin\Debug\net6.0\SS3_ATM.pdb
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS3_ATM\SS3_ATM\obj\Debug\net6.0\SS3_ATM.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS3_ATM\SS3_ATM\obj\Debug\net6.0\SS3_ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS3_ATM\SS3_ATM\obj\Debug\net6.0\SS3_ATM.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS3_ATM\SS3_ATM\obj\Debug\net6.0\SS3_ATM.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS3_ATM\SS3_ATM\obj\Debug\net6.0\SS3_ATM.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS3_ATM\SS3_ATM\obj\Debug\net6.0\SS3_ATM.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS3_ATM\SS3_ATM\obj\Debug\net6.0\refint\SS3_ATM.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS3_ATM\SS3_ATM\obj\Debug\net6.0\SS3_ATM.pdb
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS3_ATM\SS3_ATM\obj\Debug\net6.0\SS3_ATM.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS3_ATM\SS3_ATM\obj\Debug\net6.0\ref\SS3_ATM.dll

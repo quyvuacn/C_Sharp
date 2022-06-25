@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SS3_ATM/1.0.0": {
+        "runtime": {
+          "SS3_ATM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SS3_ATM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
