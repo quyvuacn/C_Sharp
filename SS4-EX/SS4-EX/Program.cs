@@ -2,6 +2,7 @@
 {
     static void Main(string[] args)
     {
+        //Array ID = Array.CreateInstance(typeof(int), 3);
         int[] ID = new int[3];
         string[] Name = new string[3];
         string[] Address = new string[3];
