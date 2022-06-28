@@ -20,13 +20,15 @@
             State[i] = Console.ReadLine();
         }
 
-        Console.WriteLine("ID\tName\t\tAddress\t\t\tState");
+        Console.WriteLine("\nID\tName\t\tAddress\t\t\tState");
+       
         for (int i = 0; i < ID.Length; i++)
         {   
             //ID.GetValue(i)
             Console.WriteLine($"{ID[i]}\t{Name[i]}\t\t{Address[i]}\t\t\t{State[i]}");
         }
         Array.Sort(Name);
+        Console.WriteLine("\nSap xep ten\n");
         for (int i = 0; i < ID.Length; i++)
         {
             Console.WriteLine($"{Name[i]}");
