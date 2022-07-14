@@ -45,20 +45,29 @@ class Program
     static void Main(string[] args)
     {
         // Array Product (3 book, 2 phone)
-        Product[] product = new Product[5];
-        product[0] = new Book(1, "Dac nhan tam", 300);
-        product[1] = new Book(2, "Cha giau cha ngheo", 450);
-        product[2] = new Book(3, "So Do", 500);
-        product[3] = new Phone(4, "Iphone 10", 2220);
-        product[4] = new Phone(5, "Iphone 11", 1990);
+        Product[] listProduct = new Product[5];
+        listProduct[0] = new Book(1, "Dac nhan tam", 300);
+        listProduct[1] = new Book(2, "Cha giau cha ngheo", 450);
+        listProduct[2] = new Book(3, "So Do", 500);
+        listProduct[3] = new Phone(4, "Iphone 10", 2220);
+        listProduct[4] = new Phone(5, "Iphone 11", 1990);
 
         // Total Tax
-        double totalTax = 0;
-        foreach (var p in product)
+        double TaxBook = 0;
+        double TaxPhone = 0;
+        foreach (var product in listProduct)
         {
-            totalTax += p.computeTax();
+            if (product.GetType().ToString()=="Book")
+            {
+                TaxBook+=product.computeTax();
+            }else if (product.GetType().ToString()=="Phone")
+            {
+                TaxPhone+=product.computeTax(); 
+            }
         }
-        // Print total tax
-        Console.WriteLine(totalTax);
+        Console.WriteLine("Tax Book : {0}",TaxBook);
+        Console.WriteLine("Tax Phone : {0}", TaxPhone);
+        Console.WriteLine("Tax Total : {0}",TaxBook+TaxPhone);
+        
     }
 }
