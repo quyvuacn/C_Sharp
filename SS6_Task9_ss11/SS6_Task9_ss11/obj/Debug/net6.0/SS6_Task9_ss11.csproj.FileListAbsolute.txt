@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\SS6_Task9_ss11\bin\Debug\net6.0\SS6_Task9_ss11.exe
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\SS6_Task9_ss11\bin\Debug\net6.0\SS6_Task9_ss11.deps.json
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\SS6_Task9_ss11\bin\Debug\net6.0\SS6_Task9_ss11.runtimeconfig.json
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\SS6_Task9_ss11\bin\Debug\net6.0\SS6_Task9_ss11.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\SS6_Task9_ss11\bin\Debug\net6.0\SS6_Task9_ss11.pdb
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\SS6_Task9_ss11\obj\Debug\net6.0\SS6_Task9_ss11.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\SS6_Task9_ss11\obj\Debug\net6.0\SS6_Task9_ss11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\SS6_Task9_ss11\obj\Debug\net6.0\SS6_Task9_ss11.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\SS6_Task9_ss11\obj\Debug\net6.0\SS6_Task9_ss11.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\SS6_Task9_ss11\obj\Debug\net6.0\SS6_Task9_ss11.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\SS6_Task9_ss11\obj\Debug\net6.0\SS6_Task9_ss11.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\SS6_Task9_ss11\obj\Debug\net6.0\refint\SS6_Task9_ss11.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\SS6_Task9_ss11\obj\Debug\net6.0\SS6_Task9_ss11.pdb
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\SS6_Task9_ss11\obj\Debug\net6.0\SS6_Task9_ss11.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\SS6_Task9_ss11\obj\Debug\net6.0\ref\SS6_Task9_ss11.dll

@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\Code 2\obj\Debug\net6.0\Code 2.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\Code 2\obj\Debug\net6.0\Code 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\Code 2\obj\Debug\net6.0\Code 2.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\Code 2\obj\Debug\net6.0\Code 2.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\Code 2\obj\Debug\net6.0\Code 2.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\Code 2\bin\Debug\net6.0\Code 2.exe
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\Code 2\bin\Debug\net6.0\Code 2.deps.json
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\Code 2\bin\Debug\net6.0\Code 2.runtimeconfig.json
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\Code 2\bin\Debug\net6.0\Code 2.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\Code 2\bin\Debug\net6.0\Code 2.pdb
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\Code 2\obj\Debug\net6.0\Code 2.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\Code 2\obj\Debug\net6.0\refint\Code 2.dll
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\Code 2\obj\Debug\net6.0\Code 2.pdb
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\Code 2\obj\Debug\net6.0\Code 2.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\SS6_Task9_ss11\Code 2\obj\Debug\net6.0\ref\Code 2.dll

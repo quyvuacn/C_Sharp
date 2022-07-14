@@ -1,0 +1,5 @@
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Interface\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Interface\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Documents\GitHub\C_Sharp\Interface\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
